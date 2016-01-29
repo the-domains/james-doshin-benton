@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[James Doshin Benton]]></title>
+        <description><![CDATA[James Doshin Benton]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 29 Jan 2016 19:06:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Just This]]></title>
+            <description><![CDATA[<article><h1>Just This</h1><p>Just This...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a40b5b0808ef07332f8271ee56d4f1b197924ed.png"></article>]]></description>
+            <link>undefinedjust-this/index.html</link>
+            <guid isPermaLink="false">fbb53e08-4192-45c3-b70f-0e8c37d9a8a2</guid>
+            <pubDate>Fri, 29 Jan 2016 19:06:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
