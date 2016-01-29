@@ -1,0 +1,29 @@
+name: James Doshin Benton
+favicon: null
+layout_spectrum: 0.8514074112754315
+typography_spectrum: 0.7182963697705418
+title: James Doshin Benton
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5914303211029619
+  lightness: 0.13397568208165467
+  saturation: 0.23833535029552877
+  rhythmicContrast: 0.987111613387242
+purpose: []
