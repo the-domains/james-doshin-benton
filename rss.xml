@@ -4,21 +4,21 @@
         <description><![CDATA[James Doshin Benton]]></description>
         <link>https://thegrid.ai/james-doshin-benton/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 19:42:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jan 2016 19:44:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/james-doshin-benton/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Just This]]></title>
+            <description><![CDATA[<article><h1>Just This</h1><p>Just This...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a40b5b0808ef07332f8271ee56d4f1b197924ed.png"></article>]]></description>
+            <link>https://thegrid.ai/james-doshin-benton/just-this/index.html</link>
+            <guid isPermaLink="false">fbb53e08-4192-45c3-b70f-0e8c37d9a8a2</guid>
+            <pubDate>Fri, 29 Jan 2016 19:43:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44c37199-5737-4020-a8d0-fdfd65271dc2.jpg">]]></description>
             <link>https://thegrid.ai/james-doshin-benton/f17221c7-8744-46ff-bcba-8821cc4a9f6c/index.html</link>
             <guid isPermaLink="false">f17221c7-8744-46ff-bcba-8821cc4a9f6c</guid>
             <pubDate>Fri, 29 Jan 2016 19:41:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Just This]]></title>
-            <description><![CDATA[<article><h1>Just This</h1><p>Just This...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a40b5b0808ef07332f8271ee56d4f1b197924ed.png"></article>]]></description>
-            <link>https://thegrid.ai/james-doshin-benton/just-this/index.html</link>
-            <guid isPermaLink="false">fbb53e08-4192-45c3-b70f-0e8c37d9a8a2</guid>
-            <pubDate>Fri, 29 Jan 2016 19:06:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
